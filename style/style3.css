@@ -1,0 +1,52 @@
+body { 
+    display: flex  
+ }
+ 
+body {    
+    flex-direction: column;    
+   }
+
+header, 
+footer {    
+     height: 200px;   
+   }
+
+main { 
+    flex: 1;  
+ }
+
+main { 
+    display: flex;   
+  }
+  
+nav, 
+aside { 
+  width: 20vw; 
+}
+
+article { 
+    flex: 1;  
+}
+
+nav {
+    order: -1;
+}
+
+/*СТИЛИ*/
+
+nav,
+aside {
+    background-color: coral;
+}
+
+article {
+    background-color: orange;
+}
+
+header,
+footer {
+    background-color: darkorange;
+}
+
+
+ 
