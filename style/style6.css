@@ -1,0 +1,11 @@
+.media {
+    width: 30vw;
+   display: flex;
+   align-items: flex-start;
+}
+
+.media-body {
+    padding: 15px;
+   flex: 1;
+}
+
