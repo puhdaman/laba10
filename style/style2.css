@@ -56,3 +56,16 @@
 .row--center {
    align-items: center
 }
+
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+  font-size: 40px;
+}

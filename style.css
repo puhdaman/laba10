@@ -60,3 +60,16 @@ body {
 .big button {
   margin-top: 50px;
 }
+
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+  font-size: 40px;
+}
